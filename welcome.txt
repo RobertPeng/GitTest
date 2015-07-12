@@ -1,9 +1,2 @@
-lakdfjlakjs
-alsdkfjalskdfjlaksdf
-alskdflasjdf
-laksdjflaskdjflkaj
-alskdflakjsdf
-laksdflajsdlfkalsdfk
-laksdflkajsdf
-alksdjflaksjdflkajsdlfkj
-
+function a(b, c)
+end
